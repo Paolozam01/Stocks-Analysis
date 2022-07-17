@@ -12,6 +12,8 @@ After running the code, we can very quickly identifiy how renewable energy stock
 
 But when we run the code on the year 2018, its a very different story. Almost all stocks had negative results during this year. It is very easy to identify the stocks that had good performances because of the formating as we can see on the following image:
 
+<img width="379" alt="Screen Shot 2022-07-16 at 22 24 57" src="https://user-images.githubusercontent.com/108498940/179382546-49a21c16-122d-4836-b629-e13fdfd8bc2c.png">
+
 
 
 ## Summary:
