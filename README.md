@@ -14,7 +14,7 @@ But when we run the code on the year 2018, its a very different story. Almost al
 
 <img width="379" alt="Screen Shot 2022-07-16 at 22 24 57" src="https://user-images.githubusercontent.com/108498940/179382546-49a21c16-122d-4836-b629-e13fdfd8bc2c.png">
 
-
+We can clearly see that the stock in which Steve parents invested had great results on 2017 but really bead results on 2018. Although the stock dropped 62% Steve parents still had a 138% profit if they invested at the beginning of the 2017. This type of up and downs are normal on almost all industries, and usually when stocks fall like this they rise in the future so I wouldn't say that it would be a bad idea to hold their investment on the DQ stock. On the other hand, we can see that there are two stocks that had positive results on both 2017 and 2018. It might be a good idea to invest in those stocks since it might mean that both of those companies have good products and administration. 
 
 ## Summary:
 
