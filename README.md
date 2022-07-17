@@ -27,7 +27,14 @@ The time in which the code ran was the following:
 
 2018:
 
-
+<img width="1199" alt="Screen Shot 2022-07-16 at 22 05 39" src="https://user-images.githubusercontent.com/108498940/179384503-c2486a78-607c-4ca3-815d-5e85eb630316.png">
 
 ## Summary:
 
+## What are the advantages or disadvantages of refactoring code?
+
+The advantages of refactoring code could be that the program might run faster. This code was not that big and it did not take much time to run, but if it was a bigger code it would take longer which would be annoying and uneficient. In those cases it is better to refactor in order to run the program faster. Also, you can personalize more the code in order to arrange it in a way that you like more and will help you understand it. Cons might be that you will lose time refactoring the code when it is not really necessary. When the code works correclty and does not take much time to run you will only lose time refactoring the code. Anther con might be that if you do not code correctly new bugs and errors might come up which where not ther before. 
+
+## How do these pros and cons apply to refactoring the original VBA script?
+
+In this case the refactoring of this VBA script was not really necessary. I learned a lot while doing this program but if it was my job to work on this code on my work I would opt out for not wasting my time refactoring it. The code already worked correctly and the difference on running the code before and after refactoring it was only miliseconds. Also, while working on my code I encountered errors and bugs that I had not ecounter before. On the other hand I learned a lot about how refactoring might be on a job or real life and I was also able to personalize the code even more. 
