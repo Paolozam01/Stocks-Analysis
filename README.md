@@ -22,8 +22,11 @@ The time in which the code ran was the following:
 
 2017:
 
+<img width="1190" alt="Screen Shot 2022-07-16 at 22 05 51" src="https://user-images.githubusercontent.com/108498940/179384427-0556ca33-9295-49ac-9273-487ff846dded.png">
+
 
 2018:
+
 
 
 ## Summary:
